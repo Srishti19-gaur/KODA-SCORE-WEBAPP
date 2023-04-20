@@ -1,6 +1,6 @@
 # koda_score_webapp
 
-A new Flutter project.
+Koda Score is an an updated and validated bowel preparation scale for patients undergoing small bowel capsule endoscopy. This is a Koda score Webapp using Flutter and firebase.
 
 ## Getting Started
 
